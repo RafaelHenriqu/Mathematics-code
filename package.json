@@ -1,0 +1,21 @@
+{
+  "name": "universal-code",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc"
+  },
+  "keywords": [
+    "Mathematics",
+    "Computer",
+    "Simplify",
+    "Convert"
+  ],
+  "author": "Noah",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.12.0",
+    "typescript": "^5.7.3"
+  }
+}

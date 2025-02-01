@@ -1,0 +1,27 @@
+{
+    "Area_ERROR":"Desculpe, mas aceitamos apenas as seguintes figuras geométricas. (Rectangle, Square, Circle & Triangle)",
+    "Invalid_Value":"ERRO, insira um valor válido",
+    "Set_Language_ERROR":"Desculpe, porem apenas aceitamos as seguintes linguagens Atualmente. \n Inglês (en-us) \n Português (pt-br) \n Russo(ru-ru) \n chine(zh-cn)",
+    "informatic__tips":[[
+    "Mantenha seu software atualizado para proteger contra vulnerabilidades de segurança.",
+    "Use senhas fortes e únicas para diferentes contas e considere um gerenciador de senhas.",
+    "Realize backups regulares de seus dados importantes em um disco rígido externo ou armazenamento em nuvem.",
+    "Tenha cuidado com e-mails de phishing; verifique o remetente antes de clicar em links.",
+    "Use software antivírus e realize verificações regulares para detectar malware.",
+    "Organize seus arquivos e pastas de forma lógica para torná-los mais fáceis de encontrar.",
+    "Aprenda atalhos de teclado para melhorar sua eficiência em aplicativos.",
+    "Limpe o cache e os cookies do seu navegador regularmente para melhor desempenho.",
+    "Configure a autenticação de dois fatores (2FA) para uma camada extra de segurança.",
+    "Use um firewall para proteger seu computador contra acesso não autorizado.",
+    "Faça pausas regulares ao usar um computador para evitar cansaço visual e fadiga.",
+    "Explore ferramentas de produtividade, como gerenciadores de tarefas e aplicativos de anotações.",
+    "Personalize sua área de trabalho com ícones e widgets relevantes para acesso rápido.",
+    "Use serviços em nuvem para colaboração e acesso mais fácil a arquivos de vários dispositivos.",
+    "Aprenda etapas básicas de solução de problemas para diagnosticar problemas comuns de computador.",
+    "Mantenha-se informado sobre as últimas tendências em tecnologia para atualizar suas habilidades."
+]],
+    "Meters_converter":"Desculpe, mas convertemos apenas para (Feet, Inch, Yard & Cubit)",
+    "Celsius_Converter":"Desculpe, mas convertemos apenas para (Fahrenheit & Kelvin)",
+    "Convert_ERROR":"Desculpe, mas convertemos apenas para (Decimal, Binary, Hexadecimal & Octal)" 
+    
+}
