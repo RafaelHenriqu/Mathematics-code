@@ -1,6 +1,6 @@
 {
   "name": "mathematics-code",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "index.js",
   "scripts": {
     "start": "npx tsc"
@@ -12,13 +12,10 @@
     "Convert"
   ],
   "author": "Rafael",
-  "license": "ISC",
-  "description": "",
+  "license": "MIT",
+  "description": "A project that aims to simplify mathematics",
   "devDependencies": {
     "@types/node": "^22.12.0",
     "typescript": "^5.7.3"
-  },
-  "dependencies": {
-    "mathematics-code": "^1.0.1"
   }
 }

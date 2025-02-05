@@ -71,6 +71,7 @@ var Calculations = {
         if (typeof (Number) != 'number') {
             return Configs.Settings.Language.Invalid_Value;
         }
+        var i 
         for (i = 0; i < Number; i++) {
             return Math.sqrt(Number);
         }
