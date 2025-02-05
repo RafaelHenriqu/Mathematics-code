@@ -49,7 +49,7 @@ Mathematics Code offers a wide range of functions, including, but not limited to
 To install Mathematics Code, you can use npm:
 
 ```bash
-npm install universal-code
+npm install mathematics-code
 ```
 
 Once installed, you can start utilizing its functions in your Node.js projects!
